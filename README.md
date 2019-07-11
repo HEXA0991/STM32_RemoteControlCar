@@ -1,7 +1,7 @@
 # STM32_RemoteControlCar
 STM32 part of a remote control car
 
-本科三年级小学期课程 硬件综合训练 使用SM32F103VCT6 底层对小车控制部分硬件代码
+本科三年级小学期课程 硬件综合训练 使用STM32F103VCT6 底层对小车控制部分硬件代码
 
 1.小车驱动
 
